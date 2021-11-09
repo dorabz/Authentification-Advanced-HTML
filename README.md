@@ -1,4 +1,5 @@
 FER - Napredni razvoj programske potpore za web - 1. projekt
+
 Tehnologije: Django python
 
 * adresa aplikacije na Heroku: https://napweb-auth0.herokuapp.com
