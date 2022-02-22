@@ -4,6 +4,8 @@ This is a repo of project made as a part of university course.
 
 FER - Advanced web development - 1. project
 
+Theme of project: Authentification & Advanced HTML
+
 Technologies used: Django python
 
 * Heroku application address: https://napweb-auth0.herokuapp.com
