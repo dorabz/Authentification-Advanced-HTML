@@ -1,8 +1,6 @@
-# Advanced-web-development---project-1
+# Authentification & Advanced HTML
 
 This is a repo of project made as a part of university course.
-
-FER - Advanced web development - 1. project
 
 Theme of project: Authentification & Advanced HTML
 
